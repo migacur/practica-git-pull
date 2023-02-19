@@ -1,2 +1,2 @@
-# practica-git-pull
+# Repositorio de práctica para Git Pull
 Práctica Git Pull
